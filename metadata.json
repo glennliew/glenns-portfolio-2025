@@ -1,0 +1,5 @@
+{
+  "name": "Engineer Portfolio - Dither",
+  "description": "A high-contrast, aesthetic portfolio for software engineers featuring a real-time dithered WebGL-style canvas effect.",
+  "requestFramePermissions": []
+}
